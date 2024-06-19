@@ -7,4 +7,6 @@ if Choice == "Yes".lower():
 if Choice == "No".lower():
     print("You stopped for a second and ask yourself: We are all human, just why whould I do that to my own kind...")
 elif Choice == "":
-    print("You just can't decide if can get yourself to kill those people, and you suddenly realizes that you've already flown past Hiroshima.")
+    print("You just can't decide if can get yourself to kill those people, and you suddenly realizes that you've already flown past Hiroshima. And you see a Mitsubishi KI-83 diving onto you.")
+    Action = input("He's got the 30mm aimed right at you, what would you do?")
+    if Action = 
