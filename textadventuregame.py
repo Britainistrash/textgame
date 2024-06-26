@@ -1,19 +1,9 @@
-print("With your presistence, Nagasaki luckly avoided from the disaster that is about to happen.")
+print("You are seeing the exact same thing you've seen before, you are in the exact same place you were at before, and you're about to do the same thing you've done before.")
 input()
-print("So is this for the sake of the precious lives or the evil spirits getaway, the anwser would be shown with time.")
-input()
-print("Thousands of metres below clouds, in Tokoyo, things that are happening on the ground aren't peacefull either.")
-input()
-print("The power of the emperor has been significantly reduced after the bombing of Hiroshima, the first nuclear bomb dropped on Japan")
-input()
-print("The sound of fighting againest the emperor is rising as time passes, for the lives of the residents of Japan, the opposition must take action.")
-input()
-print("The angers that the residents have is like the burning flames, and will sure flood japan with the nuclear bomb on Hiroshima.")
-input()
-print("Not long after, a piece of new flowed here: The opposition has taken over the power of the emperor, thus the emperor had no options left but to sign the abdication edict.")
-input()
-print("The new goverment commited to a quick end to the war, and the unconditional surrender is signed not long after.")
-input()
-print("Following the surrender of Japan, the second world war came to an end.")
-input()
-print("Colonel name, your effort have not been wasted. The choice you made saved thousands of Japanese people's life.")
+print("The bomb bay door's opened again. This time, you feel really uncomfortable, tears fell out from your eyes, and fell down into the sky.")
+Drop = input("It's time, are you going to drop it, or not")
+if Drop == "Yes".lower():
+
+if Drop == "no".lower():
+
+elif Drop == "":
