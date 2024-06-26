@@ -1,9 +1,19 @@
-print("You are seeing the exact same thing you've seen before, you are in the exact same place you were at before, and you're about to do the same thing you've done before.")
+print("So you returned home, and Japan was not hit by the atomic bomb.")
 input()
-print("The bomb bay door's opened again. This time, you feel really uncomfortable, tears fell out from your eyes, and fell down into the sky.")
-Drop = input("It's time, are you going to drop it, or not")
-if Drop == "Yes".lower():
-
-if Drop == "no".lower():
-
-elif Drop == "":
+print("The president was angry, but there was nothing he could do.")
+input()
+print("After discussion, in order to end the war as soon as possible, the United States finally chose to land in Japan and conduct a ground war.")
+input()
+print("However, Japan still believed that it had the strength to fight and continued to choose to fight.")
+input()
+print("The United States launched a large-scale battle after landing, and most of the Japanese soldiers were killed")
+input()
+print("The United States soon reached the vicinity of Tokyo.")
+input()
+print("Obviously, Japan overestimated its own strength")
+input()
+print("But they still refused to surrender and were ready to fight to the end")
+input()
+print("In the end, no amount of resistance could cover up the gap in power, and the United State soldiers captured the emperor and forces him to surredner.")
+input()
+print("At this point, World War II finally came to an end")
